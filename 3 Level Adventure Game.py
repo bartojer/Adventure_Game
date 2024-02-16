@@ -4,7 +4,7 @@
 Jeremy Barton
 CSC 110
 '''
-
+'''how about now?'''
 # - - - - - - - - - - - #
 # LEVEL 1
 choice_1_dialog = '''You wake up in a dimly lit room with your hands bound. 
@@ -128,3 +128,5 @@ elif choice_1.lower() == 'door':
     print(choice_2b_dialog)
 else:
     print("You couldn't make up your mind and are fed to the volcano gods. Game Over")
+
+print('does this work?')
